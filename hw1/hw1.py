@@ -5,7 +5,7 @@ import numpy as np
 import math
 
 # Choose initial values r,a,b
-r,a,b = 2,1,-1
+r,a,b = 1,1,1
 
 # Compute population values (N)
 N1 = b + np.sqrt(r/a)
