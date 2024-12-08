@@ -69,8 +69,6 @@ def create_degree_list(Network, m):
         mf_approx = (2*(m^2)) / (k^3)
         mf_approx_list.append(mf_approx)
 
-
-
     # Step 1: Plot the degree distribution as a histogram
 
     # plt.figure(figsize=(8, 6))
