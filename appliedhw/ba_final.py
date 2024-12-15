@@ -7,7 +7,7 @@ from scipy.optimize import curve_fit
 
 def generate_BA(N,m):
     
-    # Initialize Library
+    # Initialize Libraries
     Network = {node: [] for node in range(N)}
 
     # Initial nucleus size
